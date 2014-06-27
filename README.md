@@ -18,9 +18,13 @@ Create a Google Spreadsheet with the following columns:
 * caption
 * body 
 * read more url
+* class
+
 
 **Please note that the the _display date_ column must be in the format _Month day, Year_ (April 25, 2012) for proper javascript parsing.**
 **Also, all columns must be _plain text_ format, including the two date columns.**
+**The _class_ value will be added to the class attribute of the main div for that post, to support custom css.**
+
 
 Now follow the instructions over at Tabletop.js to publish the Spreadsheet.
 
