@@ -18,9 +18,11 @@ Create a Google Spreadsheet with the following columns:
 * caption
 * body 
 * read more url
+* class
 
 **Please note that the the _display date_ column must be in the format _Month day, Year_ (April 25, 2012) for proper javascript parsing.**
 **Also, all columns must be _plain text_ format, including the two date columns.**
+**The _class_ value will be added to the class attribute of the main div for that post, to support custom css.**
 
 Now follow the instructions over at Tabletop.js to publish the Spreadsheet.
 
@@ -29,6 +31,8 @@ In Google Docs, then go up to the File menu and pick Publish to the web. Fiddle 
 key: the part between key= and &
 
 The Spreadsheet used in the example index.html file is at [https://docs.google.com/spreadsheet/ccc?key=0AsmHVq28GtVJdG1fX3dsQlZrY18zTVA2ZG8wTXdtNHc](https://docs.google.com/spreadsheet/ccc?key=0AsmHVq28GtVJdG1fX3dsQlZrY18zTVA2ZG8wTXdtNHc)
+
+current: https://docs.google.com/spreadsheet/ccc?key=0AhVQ7rH5MwaHdDA1ekNFU0d1Vm9lREdzN0tsd0czS3c&usp=drive_web#gid=0
 
 ### 2) Insert the Spreadsheet key into script.js
 
