@@ -192,7 +192,7 @@ body{
 	box-shadow:  0px 1px 1px 0px #8F8F8F;
 }
 #timeline .post a.more:hover{
-	background-color: #D4D7DA;
+	background-color: #F3EDED;
 }
 #timeline .post a.share-trigger{
 	text-decoration: none;
@@ -213,7 +213,7 @@ body{
 }
 #timeline .post a.share-trigger.over,
 #timeline .post a.share-trigger:hover{
-	background-color: #D4D7DA;
+	background-color: #F3EDED;
 }
 #timeline .post .share{
 	position: relative;
