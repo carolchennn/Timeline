@@ -239,7 +239,7 @@ body{
 }
 #timeline .post .share-popup .facebook-share-button{
 	position: absolute;
-	left:100px;
+	right: 20px;
 	top: 15px;
 }
 .lt-ie9 #timeline .post .share-popup .facebook-share-button{
