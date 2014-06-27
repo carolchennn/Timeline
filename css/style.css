@@ -172,14 +172,14 @@ body{
 	vertical-align: middle;
 }
 #timeline .post a.more{
-	color: #87b2d3;
+	color: #968E8E;
 	text-decoration: none;
 	font-size: 12px;
 	font-weight: bold;
 	text-align: center;
 	width: 211px;
 	height: 28px;
-	border: 1px #87b2d3 solid;
+	border: 1px #968E8E solid;
 	background-color: #d6e5f0;
 	display: block;
 	float: left;
@@ -189,7 +189,7 @@ body{
   border-radius: 2px;
 	-webkit-box-shadow:  0px 1px 1px 0px #87b2d3;
 	-moz-box-shadow:  0px 1px 1px 0px #87b2d3;
-	box-shadow:  0px 1px 1px 0px #87b2d3;
+	box-shadow:  0px 1px 1px 0px #8F8F8F;
 }
 #timeline .post a.more:hover{
 	background-color: #FFF;
