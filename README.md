@@ -1,6 +1,6 @@
-(This is a fork of WNYC's Super Awesome Vertical Timeline)
------------------------------------------------------------
 Super Awesome Vertical Timeline
+-----------------------------------------------------------
+(This is a fork of WNYC's Super Awesome Vertical Timeline)
 
 **Timeline** shows a series of events in a vertically time-sorted structure.
 
@@ -26,13 +26,14 @@ Create a Google Spreadsheet with the following columns:
 **Also, all columns must be _plain text_ format, including the two date columns.**
 **The _class_ value will be added to the class attribute of the main div for that post, to support custom css.**
 * change the following items in html to custom the class
-<style type="text/css">
- 	  /* class "negative" makes post appear white on black */
+
+ 	(class "negative" makes post appear white on black)
+ 
  	.negative div.inner, .negative div, .negative h3 {
  		background: #000 !important;
  		color: #fff !important
  	} 
-   </style>
+
 
 
 Now follow the instructions over at Tabletop.js to publish the Spreadsheet.
