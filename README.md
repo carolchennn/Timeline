@@ -24,11 +24,15 @@ Create a Google Spreadsheet with the following columns:
 
 Now follow the instructions over at Tabletop.js to publish the Spreadsheet.
 
+In Google Docs, then go up to the File menu and pick Publish to the web. Fiddle with whatever you want, then click Start publishing. A URL will appear, something like https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0AmYzu_s7QHsmdDNZUzRlYldnWTZCLXdrMXlYQzVxSFE&output=html
+
+key: the part between key= and &
+
 The Spreadsheet used in the example index.html file is at [https://docs.google.com/spreadsheet/ccc?key=0AsmHVq28GtVJdG1fX3dsQlZrY18zTVA2ZG8wTXdtNHc](https://docs.google.com/spreadsheet/ccc?key=0AsmHVq28GtVJdG1fX3dsQlZrY18zTVA2ZG8wTXdtNHc)
 
 ### 2) Insert the Spreadsheet key into script.js
 
-Find your Spreadsheet key (see Tabletop.js for instructions), and replace the sample key on line 3 of `js/script.js` with the key to your Spreadsheet.
+Find your Spreadsheet key (see Tabletop.js for instructions), and replace the sample key on line 3 of `js/script.js` with the key to your Spreadsheet. 
 
 You also need to update the name of the spreadsheet 'sheet' that holds the data on line 4 of 'js/script.js'.
 
