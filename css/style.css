@@ -180,7 +180,7 @@ body{
 	width: 211px;
 	height: 28px;
 	border: 1px #968E8E solid;
-	background-color: #d6e5f0;
+	background-color: #FFFFFF;
 	display: block;
 	float: left;
 	line-height: 28px;
@@ -192,7 +192,7 @@ body{
 	box-shadow:  0px 1px 1px 0px #8F8F8F;
 }
 #timeline .post a.more:hover{
-	background-color: #FFF;
+	background-color: #D4D7DA;
 }
 #timeline .post a.share-trigger{
 	text-decoration: none;
@@ -201,19 +201,19 @@ body{
 	text-align: center;
 	width: 28px;
 	height: 28px;
-	border: 1px #87b2d3 solid;
-	background: #d6e5f0 url(../img/icon-share.png) no-repeat center center;
+	border: 1px #968E8E solid;
+	background: #FFFFFF url(../img/icon-share.png) no-repeat center center;
 	display: block;
 	-webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
 	-webkit-box-shadow:  0px 1px 1px 0px #87b2d3;
 	-moz-box-shadow:  0px 1px 1px 0px #87b2d3;
-	box-shadow:  0px 1px 1px 0px #87b2d3;
+	box-shadow:  0px 1px 1px 0px #8F8F8F;
 }
 #timeline .post a.share-trigger.over,
 #timeline .post a.share-trigger:hover{
-	background-color: #FFF;
+	background-color: #D4D7DA;
 }
 #timeline .post .share{
 	position: relative;
