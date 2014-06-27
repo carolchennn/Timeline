@@ -1,4 +1,6 @@
-# Super Awesome Vertical Timeline
+(This is a fork of WNYC's Super Awesome Vertical Timeline)
+-----------------------------------------------------------
+Super Awesome Vertical Timeline
 
 **Timeline** shows a series of events in a vertically time-sorted structure.
 
