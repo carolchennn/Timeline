@@ -30,6 +30,9 @@ Now follow the instructions over at Tabletop.js to publish the Spreadsheet.
 
 The Spreadsheet used in the example index.html file is at [https://docs.google.com/spreadsheet/ccc?key=0AsmHVq28GtVJdG1fX3dsQlZrY18zTVA2ZG8wTXdtNHc](https://docs.google.com/spreadsheet/ccc?key=0AsmHVq28GtVJdG1fX3dsQlZrY18zTVA2ZG8wTXdtNHc)
 
+current:
+https://docs.google.com/spreadsheet/ccc?key=0AhVQ7rH5MwaHdDA1ekNFU0d1Vm9lREdzN0tsd0czS3c&usp=sharing
+
 ### 2) Insert the Spreadsheet key into script.js
 
 Find your Spreadsheet key (see Tabletop.js for instructions), and replace the sample key on line 3 of `js/script.js` with the key to your Spreadsheet.
