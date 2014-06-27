@@ -239,8 +239,8 @@ body{
 }
 #timeline .post .share-popup .facebook-share-button{
 	position: absolute;
-	right: 20px;
-	top: 12px;
+	left:100px;
+	top: 15px;
 }
 .lt-ie9 #timeline .post .share-popup .facebook-share-button{
 	top: 11px;
