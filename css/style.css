@@ -242,6 +242,12 @@ body{
 	padding-left: 80px;
 	top: 15px;
 }
+
+.facebooksharebutton{
+	padding-left:80px;
+	padding-top:15px;
+}
+
 .lt-ie9 #timeline .post .share-popup .facebook-share-button{
 	top: 11px;
 }
