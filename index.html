@@ -13,6 +13,13 @@
   <link rel="stylesheet" href="css/style.css">
 
   <script src="js/libs/modernizr-2.5.3.min.js"></script>
+  <style type="text/css">
+ 	  /* class "negative" makes post appear white on black */
+ 	.negative div.inner, .negative div, .negative h3 {
+ 		background: #000 !important;
+ 		color: #fff !important
+ 	} 
+   </style>
 </head>
 <body>
   <div id="page">
@@ -68,7 +75,7 @@
   </script>
 
   <script id="post-template" type="text/x-handlebars-template">
-    <div class="item post">
+    <div class="item post {{class}}">
       <div class="inner">
         <div class="timestamp">{{timestamp}}</div>
         <div class="title"><h3>{{title}}</h3></div>
