@@ -234,8 +234,8 @@ body{
 }
 #timeline .post .share-popup .twitter-share-button{
 	position: absolute;
-	left: 20px;
-	top: 15px;
+	left: 19px;
+	top: 17px;
 }
 #timeline .post .share-popup .facebook-share-button{
 	position: absolute;
@@ -244,8 +244,7 @@ body{
 }
 
 .facebooksharebutton{
-	padding-left:80px;
-	padding-top:15px;
+	padding-left:70px;
 }
 
 .lt-ie9 #timeline .post .share-popup .facebook-share-button{
