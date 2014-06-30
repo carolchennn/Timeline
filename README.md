@@ -22,7 +22,7 @@ Create a Google Spreadsheet with the following columns:
 
 **Please note that the _display date_ column must be in the format _Month day, Year_ (April 25, 2012) for proper javascript parsing.**
 **Also, all columns must be _plain text_ format, including the two date columns.**
-**change the following items in html to custom the class, if you don't like class, you don't need to type that in your spreadsheet**
+**Change the following items in html to custom the class, and if you don't like class, don't put that into your spreadsheet.**
 
  	(class "negative", for example, makes the post appear white on black)
  
